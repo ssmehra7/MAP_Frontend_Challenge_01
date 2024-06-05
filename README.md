@@ -1,4 +1,3 @@
-![image](https://github.com/ssmehra7/MAP_Frontend_Challenge_01/assets/90677613/13bd5217-ec5d-4118-a9a4-ea3a2fe54b24)
 
 ## Table of contents
 
