@@ -1,8 +1,29 @@
-# React + Vite
+![image](https://github.com/ssmehra7/MAP_Frontend_Challenge_01/assets/90677613/13bd5217-ec5d-4118-a9a4-ea3a2fe54b24)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of contents
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ssmehra7/MAP_Frontend_Challenge_01.git
+   ```
+2. Run the following command to start the application:
+   ```bash
+   npm install
+   npm run dev
+   ```
+## Used Library
+   - ReactJs
+   - TailwindCss
+
+## Screenshots
+![image](https://github.com/ssmehra7/MAP_Frontend_Challenge_01/assets/90677613/f7cb7276-85f3-4c3d-b171-6875c56f8f26)
+
+
+    
+## Live Link
+https://map-frontend-challenge-01-iota.vercel.app/
+
+
+
+
