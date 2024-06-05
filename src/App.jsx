@@ -11,13 +11,13 @@ function App() {
 
   useEffect(() => {
     setTimeout(() => {
-      setLoading(false); // Set loading to false after 5 seconds
+      setLoading(false); 
     }, 800);
   }, []);
 
  
   return (
-    <div className="h-screen w-screen flex snap-x snap-mandatory overflow-x-auto overflow-y-hidden">
+    <div className="h-screen w-screen flex snap-x snap-mandatory overflow-x-auto overflow-y-hidden duration-300">
     
       {loading ? (
         <div className="flex justify-center items-center mx-auto">
@@ -25,7 +25,7 @@ function App() {
         </div>
       ) : (
         config.map((flower, index) => (
-          <div key={index} className="min-w-full min-h-full flex justify-center items-center snap-start duration">
+          <div key={index} className="min-w-full min-h-full flex justify-center items-center snap-start">
             <Card image={flower.img} title={flower.title} description={flower.description} tags={flower.tags} />
 
           </div>
