@@ -24,7 +24,7 @@ import img20 from './assets/foxglove.jpg';
 export const config = [
 
     {
-      img:img10,
+      img:img0,
       title:"Sample Image",
       description:"This is a sample image",
       tags:"popular"
